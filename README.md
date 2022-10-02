@@ -1,1 +1,1 @@
-# Cool-DSA-Algorithms
+# InterviewBit Solutions
